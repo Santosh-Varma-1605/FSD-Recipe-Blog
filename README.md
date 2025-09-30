@@ -1,5 +1,5 @@
 # FSD-Recipe-Blog
-Start virtual environment 
+Start virtual environment \n
 linux : source venv/Scripts/activate
 windows : venv\Scripts\activate
 change directory to recepie_blog
